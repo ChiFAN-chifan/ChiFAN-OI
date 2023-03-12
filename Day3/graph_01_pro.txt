@@ -1,0 +1,24 @@
+例题：
+luogu P1993
+LightOJ-1380 
+UVALive-3713   https://vjudge.net/problem/UVALive-3713
+CF 587D Duff in Mafia
+
+
+
+图论合集8题：https://blog.csdn.net/weixin_43870697/article/details/102942101
+A:LightOJ - 1123 Trail Maintenance
+
+B:LightOJ - 1380 Teleport
+
+C:LightOJ - 1250 Village Postman
+
+D:LightOJ - 1003 Drunk
+
+E:LightOJ - 1149 Factors and Multiples
+
+F:LightOJ - 1152 Hiding Gold
+
+G:LightOJ - 1429 Assassin`s Creed (II)
+
+H:LightOJ - 1154 Penguins
